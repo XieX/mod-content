@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "xie-default-content",
+    "name": "Default Content for Xie's Mod",
+    "description": "Farming, cooking and more!",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "http://xiecraft.net",
+    "updateUrl": "",
+    "authorList": ["Xie"],
+    "credits": "The Forge and FML guys, for making this all possible! And Xie too I guess...",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

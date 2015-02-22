@@ -1,8 +1,30 @@
 {
   "content": [
     {
+      "type": "block",
+      "id": "saltDeposit",
+      "properties": {
+        "item": {
+          "stackSize": 12
+        }
+      }
+    },
+    {
       "type": "item",
       "id": "cotton"
+    },
+    {
+      "type": "item",
+      "id": "sammich",
+      "properties": {
+        "stackSize": 24,
+        "creativeTab": "FOOD",
+        "action": {
+          "type": "eat",
+          "foodPoints": 4,
+          "saturation": 1
+        }
+      }
     }
   ]
 }
